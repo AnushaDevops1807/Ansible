@@ -1,7 +1,7 @@
 - name: myworld 
   hosts: web
   tasks:
-   - name: print myworld
+   - name: print my world
      ansible.builtin.debug:
      msg: "my world"
 
