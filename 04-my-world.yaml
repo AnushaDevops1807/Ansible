@@ -1,4 +1,4 @@
-- name: myworld
+- name: myworld playbook
   hosts: web
   tasks:
    - name: print myworld
