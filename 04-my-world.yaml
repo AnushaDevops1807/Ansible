@@ -3,5 +3,5 @@
   tasks:
    - name: print my world
      ansible.builtin.debug:
-     msg: "my world"
+       msg: "my world"
 
